@@ -1,8 +1,8 @@
-### BEM-VINDO(A), ME CHAMO MATEUS! 👨🏻‍💻
+### Bem vindo(a), me chamo Mateus! 👨🏻‍💻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-araujo-75845b259/)
 
 
-### TECNOLOGIAS QUE USO
+### Tecnologias que uso
 <div style="display: inline_block">
 <img align="center"  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img align="center"  src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
